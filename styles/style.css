@@ -127,3 +127,23 @@
     justify-content: space-between;
     margin-bottom: 128px;
 }
+
+/* style for key point section  */
+.key-point-section {
+    background-color: #2727270D;
+    max-width: 1440px;
+    margin: 0 auto;
+    border-radius: 8px;
+    margin-bottom: 128px;
+}
+
+.key-point-details {
+    padding: 86px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.key-point-item {
+    text-align: center;
+}
