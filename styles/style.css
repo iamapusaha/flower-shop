@@ -178,3 +178,34 @@
 .color-off {
     color: #E55473;
 }
+
+/* style for Instagram section  */
+.insta {
+    max-width: 1440px;
+    margin: 0 auto;
+    margin-bottom: 128px;
+}
+
+.insta-info {
+    text-align: center;
+    padding-top: 128px;
+}
+
+.insta-title {
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 24px;
+}
+
+.ins-all-img {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 48px;
+}
+
+.insta-img {
+    width: 342px;
+    height: 396px;
+}
