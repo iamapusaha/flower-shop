@@ -293,3 +293,39 @@
     margin-bottom: 5px;
     border-radius: 10px;
 }
+
+/* style for footer section  */
+.footer {
+    background-color: #111010;
+    height: 449px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-title {
+    color: #FFFFFF;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 24px;
+}
+
+.color-title {
+    color: #E55473;
+}
+
+.white {
+    color: #FFFFFFE5;
+    margin-bottom: 32px;
+}
+
+.copy-right {
+    color: #FFFFFF66;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
